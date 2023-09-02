@@ -3,7 +3,7 @@
 
 <html>
 <head>
-    <title>Title</title>
+    <title>servlet-mvc 회원목록</title>
 </head>
 <body>
 <a href="/index.html">메인</a>
